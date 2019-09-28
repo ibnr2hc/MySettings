@@ -11,6 +11,7 @@
   * Atom
   * iterm2
   * GitHub Desktop
+  * Station
   *
 
 # Atom Plugins
