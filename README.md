@@ -1,5 +1,5 @@
 # Software
-  * GoogleChrome
+  * Vivaldi
   * ESET
   * GoogleIME
   * Evernote
@@ -8,16 +8,14 @@
   * Shiftit
   * Alfred
   * homebrew
-  * Atom
+  * VSCode
   * iterm2
   * GitHub Desktop
-  * Station
+  * Rambox
   *
 
-# Atom Plugins
-  * Material Theme
-  * Kite
-  * Vim Mode Plus
+# VSCode Plugins
+  * 
 
 # GoogleChrome拡張機能
   * Google Translate
