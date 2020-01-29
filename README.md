@@ -15,13 +15,16 @@
   *
 
 # VSCode Plugins
-  * 
+  * vim
+  * vscode-icons
+  *
 
 # GoogleChrome拡張機能
   * Google Translate
   * OneTab
   * Adblock Plus
-  * 
+  * Notion
+  *
 
 # in Shell
   * fish
