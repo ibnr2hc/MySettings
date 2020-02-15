@@ -2,17 +2,20 @@
   * Vivaldi
   * ESET
   * GoogleIME
-  * Evernote
   * WireShark
-  * HyperSwitch
-  * Shiftit
   * Alfred
   * homebrew
   * VSCode
   * iterm2
   * GitHub Desktop
   * Rambox
-  *
+  * Karabiner
+  * 
+
+# Service&Software(in Working)
+  * Notion
+  * Typora
+  * 
 
 # VSCode Plugins
   * vim
@@ -24,6 +27,8 @@
   * OneTab
   * Adblock Plus
   * Notion
+  * FireShot
+  * Vue Devtools
   *
 
 # in Shell
