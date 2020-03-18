@@ -38,6 +38,7 @@
   * docker-compose
   * wget
   * nmap
+  * starship
   * 
 
 # Vimrc
