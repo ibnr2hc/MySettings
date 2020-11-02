@@ -42,3 +42,10 @@
   * 
 
 # Vimrc
+
+
+# Settings
+
+  ## karabiner
+    * caps_lock → left_control
+    * complete modificationsにkarabiner_settings.jsonを設定する
