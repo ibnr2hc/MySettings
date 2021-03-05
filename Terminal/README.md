@@ -6,6 +6,8 @@
  brew install neovim
  brew install tmux
  brew install rg
+ brew install fish
+ brew install starship
  pip3 install -U neovim
 
  curl https://raw.githubusercontent.com/Shougo/dein.vim/master/bin/installer.sh > installer.sh

@@ -1,47 +1,26 @@
 # Software
-  * Vivaldi
+  * Brave
   * ESET
   * GoogleIME
   * WireShark
   * Alfred
   * homebrew
-  * VSCode
+  * NeoVim
   * iterm2
   * GitHub Desktop
-  * Rambox
+  * Biscuit
   * Karabiner
+  * Docker
+  * Todoist
+  * HyperSwitch
   * 
 
-# Service&Software(in Working)
-  * Notion
-  * Typora
-  * 
-
-# VSCode Plugins
-  * vim
-  * vscode-icons
-  *
 
 # GoogleChrome拡張機能
   * Google Translate
   * OneTab
   * Adblock Plus
-  * Notion
-  * FireShot
-  * Vue Devtools
   *
-
-# in Shell
-  * fish
-  * Python3
-  * docker
-  * docker-compose
-  * wget
-  * nmap
-  * starship
-  * 
-
-# Vimrc
 
 
 # Settings
